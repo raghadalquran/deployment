@@ -1705,8 +1705,10 @@ table {
 			position: relative;
 			color: #fff;
 			font-weight: 600;
-            font-size: 19px;
-			line-height: 1em;
+            font-size: 16px;
+            line-height: 1em;
+            font-family: 'Merriweather', serif;
+
 		}
 
 		#logo p {
@@ -1715,7 +1717,9 @@ table {
 			font-size: 0.6em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
-			margin: 0.5em 0 0 0;
+            margin: 0.5em 0 0 0;
+            font-family: 'Merriweather', serif;
+
 		}
 
 		#logo .image {
